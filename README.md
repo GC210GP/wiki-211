@@ -45,7 +45,7 @@
  - [May 25, 2021](https://github.com/GC210GP/wiki-211/blob/main/presentations/210525_GraduationProject_Team5.pdf) `3.IDA`
    - **Subject**
 
-   데이터 확복을 위한 API 분석
+   데이터 확보를 위한 API 분석
    
    - Content
    
