@@ -49,9 +49,9 @@
    
    - Content
    
-   1.Facebook API 조사
-   2.Kakaotalk API 조사
-   3.친구 관계망 설계 계획
+   1. Facebook API 조사
+   2. Kakaotalk API 조사
+   3. 친구 관계망 설계 계획
    
  - [May 31, 2021](https://github.com/GC210GP/wiki-211/blob/main/presentations/210531_GraduationProject_Team5_final_v3.pdf) `1.DEF` `2.OAD` `3.IDA`
    - **Final Documentation**
