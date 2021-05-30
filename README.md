@@ -36,11 +36,12 @@
  - [May 12, 2021](https://github.com/GC210GP/wiki-211/blob/main/presentations/210512_GraduationProject_Team5.pdf) `1.DEF` `2.OAD`
    - **Triz Project**
    - Content
-
+  
    TRIZ 실습을 통해 Ideation 역량 강화
-   1.주제와 주제선정 배경
-   2.도출된 아이디어 설명
-   3.소감
+   
+   1. 주제와 주제선정 배경
+   2. 도출된 아이디어 설명
+   3. 소감
    
  - [May 25, 2021](https://github.com/GC210GP/wiki-211/blob/main/presentations/210525_GraduationProject_Team5.pdf) `3.IDA`
    - **Subject**
